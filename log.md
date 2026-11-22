@@ -161,3 +161,9 @@ Append entries in chronological order. Do not edit or remove earlier entries; ap
 - S09 ingested: Hart, "Why do dogs and cats eat grass?", Veterinary Medicine (Dec 2008, pp. 648–649; dvm360 online dated 2009-12-01). Cat data preliminary, no numbers, same group as S05, no hairball content.
 - Updated: S05/S08 notes, new S09 note, plant-eating concept, index, AGENTS (source-quality rule), schema (S09 + source-quality check + current state), 主題介紹, 製作計畫, 簡報內容-13頁, Q02.
 - HTML: slide 6 bullets rewritten with S05/S08/S09, quiz Q2 cites S09, source dialog adds S09 and labels S05 (MDPI) and S08 (J Vet Behav). Browser re-test passed at 1440x900, 1366x768, 390x844; 0 JS errors. Republished web version.
+
+## [2026-11-23] publish | GitHub repository and Pages
+
+- Created public repo arieslibra318/cat-behavior-llm-wiki; pushed Wiki Markdown, presentation, loop graph and README. S01/S08 PDF full texts excluded (copyright); .gitignore *.pdf.
+- Root index.html = presentation/index.html; .nojekyll added. GitHub Pages enabled (main, root): https://arieslibra318.github.io/cat-behavior-llm-wiki/ — verified slide 6 renders.
+- Submission report updated on top of the user's edited version: GitHub links, S09/S08/S05 updates, source-quality loop, section 心得.
