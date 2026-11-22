@@ -23,7 +23,7 @@ related:
 
 本文是專業指引並引用既有研究，不是本篇新做的單一控制實驗。以下將五大支柱整理為建議架構，不能解讀成每項環境調整都已在本文中以實驗證明相同效果。[S01](../../raw/sources/S01-source-record.md)
 
-本次已讀取使用者提供的 12 頁 PDF，並將未修改副本存於 [raw/S01 PDF](../../raw/sources/S01-10.1177-1098612X13477537.pdf)。來源紀錄保存檔案位置、SHA-256 與核對方法。[S01](../../raw/sources/S01-source-record.md)
+本次已讀取使用者提供的 12 頁 PDF，並將未修改副本存於 `raw/sources/S01-10.1177-1098612X13477537.pdf`（因版權未上傳 GitHub）。來源紀錄保存檔案位置、SHA-256 與核對方法。[S01](../../raw/sources/S01-source-record.md)
 
 ## 背景脈絡
 

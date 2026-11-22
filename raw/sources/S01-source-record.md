@@ -41,7 +41,7 @@ Retrieved and checked on 2026-11-21. The PubMed Central full text and Sage journ
 Copyright notice in the article: © ISFM and AAFP 2013. The source is kept as an unchanged local PDF for this private Wiki, with the publisher and PubMed Central links retained for independent verification.
 
 - **Original user-provided file:** `C:\Users\Luna\Desktop\TAICA_1123繳交\10.1177_1098612X13477537.pdf`
-- **Wiki raw copy:** [S01 PDF](S01-10.1177-1098612X13477537.pdf)
+- **Wiki raw copy:** `S01-10.1177-1098612X13477537.pdf`（因版權未上傳 GitHub）
 - **PDF pages:** 12 (journal pages 219–230)
 - **SHA-256 (original and Wiki copy):** `FAE043BDFB3DFA2E374D8B92E2543F228A36139E2A6C0927F1AEE47D11765E31`
 - **Local verification (2026-11-22):** extracted text from all 12 pages; confirmed the title, author list, journal pagination and DOI in the article body; checked the five pillar sections and summary points. The PDF metadata title field says “FAB”, but the visible article title and DOI identify the expected guideline.

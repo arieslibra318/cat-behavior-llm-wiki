@@ -167,3 +167,9 @@ Append entries in chronological order. Do not edit or remove earlier entries; ap
 - Created public repo arieslibra318/cat-behavior-llm-wiki; pushed Wiki Markdown, presentation, loop graph and README. S01/S08 PDF full texts excluded (copyright); .gitignore *.pdf.
 - Root index.html = presentation/index.html; .nojekyll added. GitHub Pages enabled (main, root): https://arieslibra318.github.io/cat-behavior-llm-wiki/ — verified slide 6 renders.
 - Submission report updated on top of the user's edited version: GitHub links, S09/S08/S05 updates, source-quality loop, section 心得.
+
+## [2026-11-23] revise | Loop graph redraw and report wording
+
+- Redrew loop-graph.png: one main flow in five phases, Gate 1–4 at the end of phases 2–5, non-crossing return arrows, one dashed evidence-gap arrow back to phase 1. Older Mermaid graphs kept as history.
+- Report sections 3–5 now name checkpoints as "Gate N（階段X）" to match the graph (old step numbers ②③④⑥⑦ removed); Section 3 table reordered by phase and Gate 2 added. Whole report reworded for plain, concise language.
+- GitHub: kept the user's index.md edit removing PDF links; replaced the remaining PDF links in S01/S08 records and S01 note with plain filenames marked as not uploaded (copyright).
