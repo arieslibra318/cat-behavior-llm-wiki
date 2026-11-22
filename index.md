@@ -15,14 +15,14 @@ sources: [S01, S02, S03, S04, S05, S06, S07, S08, S09]
 
 | Source ID | 類型 | 狀態 | 資料 |
 |---|---|---|---|
-| S01 | 專業臨床指引（AAFP/ISFM, 2013） | **已處理（本機全文）** | [來源紀錄](raw/sources/S01-source-record.md) · [本機 PDF 副本](raw/sources/S01-10.1177-1098612X13477537.pdf) · [知識頁](wiki/sources/S01-feline-environmental-needs.md) |
+| S01 | 專業臨床指引（AAFP/ISFM, 2013） | **已處理（本機全文）** | [來源紀錄](raw/sources/S01-source-record.md) · [知識頁](wiki/sources/S01-feline-environmental-needs.md) |
 | S02 | 教育指南（RSPCA） | **已處理** | [來源紀錄](raw/sources/S02-source-record.md) · [知識頁](wiki/sources/S02-cat-body-language.md) |
 | S03 | 教育指南（Cats Protection） | **已處理** | [來源紀錄](raw/sources/S03-source-record.md) · [知識頁](wiki/sources/S03-cats-protection-body-language.md) |
 | S04 | 實驗研究（慢眨眼, 2020） | **已處理** | [來源紀錄](raw/sources/S04-source-record.md) · [知識頁](wiki/sources/S04-slow-blink-study.md) |
 | S05 | 問卷研究（吃植物行為；MDPI 出版，品質有爭議） | **已處理（加註來源品質）** | [來源紀錄](raw/sources/S05-source-record.md) · [知識頁](wiki/sources/S05-plant-eating-study.md) |
 | S06 | 教育指南（Ohio State University 棲架） | **已處理** | [來源紀錄](raw/sources/S06-source-record.md) · [知識頁](wiki/sources/S06-perches.md) |
 | S07 | 參考資料庫（ASPCA 植物毒性） | **已處理（僅資料庫使用原則）** | [來源紀錄](raw/sources/S07-source-record.md) · [知識頁](wiki/sources/S07-plant-toxicity.md) |
-| S08 | 觀察研究（吃植物與毛髮排出, 2025；J Vet Behav） | **已處理（期刊版摘要核對＋預印本全文）** | [來源紀錄](raw/sources/S08-source-record.md) · [本機 PDF 副本](raw/sources/S08-ssrn-5243632.pdf) · [知識頁](wiki/sources/S08-hair-evacuation.md) |
+| S08 | 觀察研究（吃植物與毛髮排出, 2025；J Vet Behav） | **已處理（期刊版摘要核對＋預印本全文）** | [來源紀錄](raw/sources/S08-source-record.md) ·  [知識頁](wiki/sources/S08-hair-evacuation.md) |
 | S09 | 獸醫實務文章（Hart, Veterinary Medicine 2008） | **已處理（初步資料，與 S05 同團隊）** | [來源紀錄](raw/sources/S09-source-record.md) · [知識頁](wiki/sources/S09-hart-2008-grass-eating.md) |
 
 ## Wiki 維護文件
